@@ -2,7 +2,7 @@
 Manuals, reports and other pdf I made
 
 ## Private works
-Sources mostly on bitbucket as private repositories but can be available to reading if you have an account and ask me to add you.
+Sources mostly on [Bitbucket](https://bitbucket.org/) as private repositories but can be available to reading if you have an account and ask me to add you.
 - Video game using [Unity](https://unity.com/) in C#: Mounyouhnya https://play.google.com/store/apps/details?id=com.afeel.mouhnya
 - Deep learning AI in Python with Tensorflow/Keras
 - Application and server to anonymize, encrypt and exchange medical data over internet between a lab researchers and an hospital doctors (network protocol HTTPS, languages PHP and MySql)
