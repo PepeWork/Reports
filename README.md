@@ -17,4 +17,4 @@ https://assetstore.unity.com/packages/tools/shattering-47052
   > Asset made in C#, I can gift you a key to let you access the source files I made. The pdf instruction manual is available on this github: [File](https://github.com/Abysselene/Reports/blob/master/Shattering.pdf)
   
 ### Videos
- On this youtube [channel](https://www.youtube.com/channel/UCsurmI46HpjOew-yHTp2MlA/videos) you can see a few videos of WIP on projects I made and others not important used to explain/show bugs not related to my work.
+ On this youtube [channel](https://www.youtube.com/channel/UCsurmI46HpjOew-yHTp2MlA/videos) you can see a few videos of WIP on projects I made. There are also other videos not important used to explain/show bugs not related to my work.
