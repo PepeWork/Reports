@@ -5,7 +5,8 @@ Manuals, reports and other pdf I made
 Sources mostly on [Bitbucket](https://bitbucket.org/) as private repositories but can be available to reading if you have an account and ask me to add you.
 - Video game using [Unity](https://unity.com/) in C#: [Mounyouhnya](https://play.google.com/store/apps/details?id=com.afeel.mouhnya)
 - Deep learning AI in Python with Tensorflow/Keras
-- Application and server to anonymize, encrypt and exchange medical data over internet between a lab researchers and an hospital doctors (network protocol HTTPS, languages PHP and MySql)
+- Application and server to anonymize, encrypt and exchange medical data over internet between a lab researchers and an hospital doctors.  
+Network protocol HTTPS, languages PHP and MySql for the server. Application in Python with framework [Kivy](https://github.com/kivy/kivy) works on Linux distributions and Android.
   > Internship report available on this github: [File](https://github.com/Abysselene/Reports/blob/master/Internship%202018/Axel%20PERIGNON%20-%20Rapport%20de%20stage%20Master%202%20DAPM%20v1.2.pdf)
 - Video game using [Shiva](https://shiva-engine.com/) in Lua: [Alrias Orbis](https://steamcommunity.com/sharedfiles/filedetails/?id=192064340)  
 Unfortunately the game engine was abandoned, since then I use Unity.
