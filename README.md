@@ -18,3 +18,7 @@ https://assetstore.unity.com/packages/tools/shattering-47052
   
 ### Videos
  On this youtube [channel](https://www.youtube.com/channel/UCsurmI46HpjOew-yHTp2MlA/videos) you can see a few videos of WIP on projects I made. There are also other videos not important used to explain/show bugs not related to my work.
+
+
+## Certificate
+  [Python](https://www.testdome.com/cert/5feb615614b34357ab8bb63f81e0bc6b)
